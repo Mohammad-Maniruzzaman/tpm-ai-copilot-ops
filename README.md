@@ -5,7 +5,7 @@
 ![Focus](https://img.shields.io/badge/Focus-GenAI%2F%20SRE-blue)
 
 ## 📋 Executive Summary
-**Objective:** Design and deploy an AI-powered Retrieval-Augmented Generation (RAG) copilot on AWS to accelerate incident resolution (MTTR) and reduce engineer onboarding time.
+**Reactor** is a serverless AI engine designed to act as the "First Responder" for IT incidents. By leveraging Retrieval-Augmented Generation (RAG) on AWS, Reactor correlates error logs with proprietary runbooks to accelerate decision-making.
 
 **Key Outcomes:**
 *   **30% Reduction** in Mean Time To Resolution (MTTR).
