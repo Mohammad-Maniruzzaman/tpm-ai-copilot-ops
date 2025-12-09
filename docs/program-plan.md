@@ -1,4 +1,4 @@
-# Program Plan – AI Copilot for IT Operations (AWS Hybrid Delivery)
+# Program Plan – Reactor for IT Operations (AWS Hybrid Delivery)
 
 **Objective:** Design and deploy an AI-powered RAG copilot on AWS to accelerate incident resolution and reduce engineer onboarding time.
 
